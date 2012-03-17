@@ -1,0 +1,5 @@
+name: FurnaceAPI
+main: me.znickq.furnaceapi.Main
+version: 1.0
+authors: [ZNickq]
+depend: [Spout]
