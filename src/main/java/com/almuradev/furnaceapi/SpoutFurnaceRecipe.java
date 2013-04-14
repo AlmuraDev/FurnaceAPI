@@ -1,4 +1,4 @@
-package me.znickq.furnaceapi;
+package com.almuradev.furnaceapi;
 
 import org.getspout.spoutapi.inventory.SpoutItemStack;
 

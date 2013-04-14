@@ -1,4 +1,4 @@
-package me.znickq.furnaceapi;
+package com.almuradev.furnaceapi;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

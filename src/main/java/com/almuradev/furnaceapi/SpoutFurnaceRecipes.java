@@ -1,4 +1,4 @@
-package me.znickq.furnaceapi;
+package com.almuradev.furnaceapi;
 
 import java.util.HashMap;
 import java.util.Map;
